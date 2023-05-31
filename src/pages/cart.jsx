@@ -6,7 +6,7 @@ function Cart() {
         <div className="bg-gray-300">
             <Header/>
             {/*Top section */}
-          <div className="top shadow-sm  sticky top-0 mt-10 mb-10 ml-[25%] bg-gradient-to-r from-gray-300 via-black to-gray-300  h-36 w-[50%]" >
+          <div className="top   sticky top-0 mt-10 mb-10 ml-[25%] bg-gradient-to-r from-gray-300 via-black to-gray-300  h-36 w-[50%]" >
            <h2 className="text-2xl text-orange-500 text-center pt-3">Subtotal : </h2>
           </div>
 

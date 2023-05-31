@@ -5,10 +5,11 @@ import Cart from "./pages/cart"
 import Signup from "./pages/signup"
 import Home from "./pages/home"
 import Login from "./pages/login"
-import Phones from "./Data/Products/phones"
-import Smart from "./Data/Products/smart"
-import TVs from "./Data/Products/tv-s"
-import Accessories from "./Data/Products/accessories" ;
+import Phones from "./pages/phones"
+import Smart from "./pages/smart"
+import TVs from "./pages/tv-s"
+import Accessories from "./pages/accessories" ;
+
 
 function App() {
 return (
@@ -19,10 +20,11 @@ return (
   <Route path="cart"  element={ <Cart/> }/>
   <Route path="signup"  element={ <Signup/> }/>
   <Route path="login"  element={ <Login/> }/>
-  <Route path="phones"  element={ <Phones/> }/>
+  <Route path="phones" element={<Phones/>}/>
   <Route path="smart"  element={ <Smart/> }/>
   <Route path="tvs"  element={ <TVs/> }/>
   <Route path="accessories"  element={ <Accessories/> }/>
+
  </Routes>
    </div>
   )
