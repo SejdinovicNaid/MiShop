@@ -19,14 +19,7 @@ function TVs () {
 
          <div className="'bg-gray-300 grid grid-cols-4  gap-10 place-content-evenly">
 
-        <div className=''>
-     <PhonesData 
-     name="TV A Pro 32"
-     price={150}
-     button="Add to Cart"
-     img="  https://i02.appmifile.com/294_operatorx_operatorx_opx/28/04/2023/3c5ca059f73ffca6ead14facdaa593b3.png?width=400&height=400 "
-     />
-    </div>
+      
 
     <div className=''>
      <PhonesData 
