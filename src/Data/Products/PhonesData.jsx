@@ -1,7 +1,7 @@
 import React from 'react';
 import { useStateValue } from '../../Components/StateProvider';
 
-function PhonesData({name, price, button, img}) {
+function PhonesData({id,name, price, button, img}) {
 const [ {cart},  dispatch ] = useStateValue();
 
 console.log("this is a cart", cart)
@@ -10,6 +10,7 @@ console.log("this is a cart", cart)
    dispatch({
     type: "ADD_TO_CART",
     item : {
+      id: id,
       name : name,
       price: price,
       button: button,

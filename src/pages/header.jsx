@@ -1,10 +1,17 @@
 import { Link } from "react-router-dom";
 import pic from "../pics/phones/704cb-2000px-xiaomi_logo.svg_.png"
 import { useStateValue } from "../Components/StateProvider";
+import {getAuth} from "firebase/auth"
+import app from "../../firebase"
 
 function Header() {
 
-  const [ { cart },  dispatch ] = useStateValue();
+  const [ { cart, user },  dispatch ] = useStateValue();
+  const auth = getAuth(app);
+
+ const signOutUser = () => {
+ auth.signOut(); 
+ }
 
     return(
       <div className="header  w-full  h-14   bg-zinc-900 sticky top-0 " >
@@ -20,7 +27,7 @@ function Header() {
     <li className="text-orange-400"><Link to="/shop">Shop</Link></li>
   </ul>
   <ul>
-    <li className="text-orange-400"><Link to="/signup">Signup</Link></li>
+    <li onClick={signOutUser} className="text-orange-400"><Link  to="/signin">{user ? "Sign In" : "Sign Out"}</Link></li>
   </ul>
   <ul>
     <li><Link to="/cart">

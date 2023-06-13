@@ -23,6 +23,7 @@ function SmartDevices() {
 
 <div className=''>
      <PhonesData 
+      id=" fasdfdfd"
      name="Smart door lock"
      price={100}
      button="Add to Cart"
@@ -32,6 +33,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" aszfdsf"
      name="Automatic Door Lock"
      price={167}
      button="Add to Cart"
@@ -41,6 +43,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" adfsdfsdaf"
      name="Camera AW300"
      price={221}
      button="Add to Cart"
@@ -51,6 +54,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" afdsfdsf"
      name="Smart Speaker"
      price={89}
      button="Add to Cart"
@@ -61,6 +65,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" gfggsdfd"
      name="Smart Lightstrip"
      price={30}
      button="Add to Cart"
@@ -71,6 +76,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" asffgadfg"
      name="Smart Doorbell 3"
      price={120}
      button="Add to Cart"
@@ -81,6 +87,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" asdffgfda"
      name="Smart Speaker"
      price={139}
      button="Add to Cart"
@@ -91,6 +98,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" adfasdfaf"
      name="Outdoor Camera"
      price={265}
      button="Add to Cart"
@@ -101,6 +109,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" asfafdfd"
      name="Smart LED Bulb"
      price={29}
      button="Add to Cart"
@@ -111,6 +120,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" askvkljfd"
      name="Smart Purifier"
      price={600}
      button="Add to Cart"
@@ -121,6 +131,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" lasdhfjk"
      name="Bedside Lamp"
      price={60}
      button="Add to Cart"
@@ -131,6 +142,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" fjffhdsfah"
      name="Smart Air Fryer"
      price={120}
      button="Add to Cart"
@@ -141,6 +153,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" asdjfjljsdkljf"
      name="Cooking Robot"
      price={267}
      button="Add to Cart"
@@ -151,6 +164,7 @@ function SmartDevices() {
 
     <div className=''>
      <PhonesData 
+      id=" akfdhjkjjh"
      name="Desk Lamp 1S"
      price={33}
      button="Add to Cart"

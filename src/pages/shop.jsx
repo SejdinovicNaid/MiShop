@@ -26,6 +26,7 @@ function Shop( )  {
 <div className='bg-gray-300 grid grid-cols-4  gap-10 place-content-evenly '>
         <div>
      <PhonesData 
+       id=" ammsdlvm"
      name="Mi 11 Ultra"
      price={420}
      button="Add to Cart"
@@ -36,6 +37,7 @@ function Shop( )  {
 
     <div className=''>
      <PhonesData 
+     id=" asffgadfg"
      name="Smart Doorbell 3"
      price={120}
      button="Add to Cart"
@@ -45,6 +47,7 @@ function Shop( )  {
 
     <div className=''>
      <PhonesData 
+       id=" gdfsvsb"
      name="TV Q1E 55"
      price={700}
      button="Add to Cart"
@@ -55,6 +58,7 @@ function Shop( )  {
 
     <div className=''>
      <PhonesData 
+       id=" agfgfdgf"
      name="TV A2 FHD 43"
      price={420}
      button="Add to Cart"
@@ -64,6 +68,7 @@ function Shop( )  {
 
     <div>
      <PhonesData 
+        id=" afčdsjfčk"
      name="Redmi 9T"
      price={150}
      button="Add to cart"
@@ -73,6 +78,7 @@ function Shop( )  {
 
     <div className=''>
      <PhonesData 
+       id= "lakpčcdkčv"
      name="Cable Lock"
      price={15}
      button="Add to Cart"
@@ -82,6 +88,7 @@ function Shop( )  {
 
     <div className=''>
      <PhonesData 
+     id=" afdsfdsf"
      name="Smart Speaker"
      price={89}
      button="Add to Cart"
@@ -91,6 +98,7 @@ function Shop( )  {
            
     <div>
      <PhonesData 
+     id=" ammsdlvm"
      name="Mi 11 Ultra"
      price={420}
      button="Add to Cart"
@@ -100,6 +108,7 @@ function Shop( )  {
 
     <div className=''>
      <PhonesData 
+      id=" dsavvfgfh"
      name="TV P1E 43"
      price={400}
      button="Add to Cart"
@@ -109,6 +118,7 @@ function Shop( )  {
 
     <div className=''>
      <PhonesData 
+     id="dakljsdljfj"
      name="Laser Measure"
      price={99}
      button="Add to Cart"
@@ -119,6 +129,7 @@ function Shop( )  {
 
     <div>
      <PhonesData 
+       id=" dkflsbdfj"
      name="Xiaomi 12T Pro"
      price={550}
      button="Add to Cart"
@@ -128,6 +139,7 @@ function Shop( )  {
 
     <div className=''>
      <PhonesData 
+      id=" adfsdfsdaf"
      name="Camera AW300"
      price={221}
      button="Add to Cart"
@@ -137,6 +149,7 @@ function Shop( )  {
 
     <div>
      <PhonesData 
+     id=" afkodjsfkllk"
      name="Redmi A1"
      price={159}
      button="Add to Cart"

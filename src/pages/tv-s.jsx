@@ -23,6 +23,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" dasfsfgfg"
      name="TV A Pro 43"
      price={250}
      button="Add to Cart"
@@ -32,6 +33,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" fsdfdsfd"
      name="TV A Pro 50"
      price={300}
      button="Add to Cart"
@@ -41,6 +43,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" asdgfgg"
      name="TV A Pro 55"
      price={400}
      button="Add to Cart"
@@ -50,6 +53,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" adgdfgfg"
      name="TV F2 32"
      price={100}
      button="Add to Cart"
@@ -59,6 +63,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id="ghsvbghgfjn"
      name="TV Max 86"
      price={750}
      button="Add to Cart"
@@ -68,6 +73,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" gdfsvsb"
      name="TV Q1E 55"
      price={700}
      button="Add to Cart"
@@ -77,6 +83,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" dsavvfgfh"
      name="TV P1E 43"
      price={400}
      button="Add to Cart"
@@ -86,6 +93,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" agdfgfdg"
      name="TV Box S"
      price={100}
      button="Add to Cart"
@@ -95,6 +103,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" asgfgfgf"
      name="Soundbar 3.1 ch"
      price={200}
      button="Add to Cart"
@@ -104,6 +113,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" agfgfdgf"
      name="TV A2 FHD 43"
      price={420}
      button="Add to Cart"
@@ -113,6 +123,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" agfgdfgdd"
      name="TV P1E 65"
      price={600}
      button="Add to Cart"
@@ -122,6 +133,7 @@ function TVs () {
 
     <div className=''>
      <PhonesData 
+      id=" lafmkfjkhf"
      name="TV Q2 55"
      price={600}
      button="Add to Cart"

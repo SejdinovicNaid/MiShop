@@ -20,6 +20,7 @@ function Phones() {
 <div className='bg-gray-300 grid grid-cols-4  gap-10 place-content-evenly '>
     <div className=''>
      <PhonesData 
+      id=" afldklsfnjk"
      name="Xiaomi 13 Pro"
      price={600}
      button="Add to Cart"
@@ -29,6 +30,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+    id=" dkflsbdfj"
      name="Xiaomi 12T Pro"
      price={550}
      button="Add to Cart"
@@ -38,6 +40,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" ammsdlvm"
      name="Mi 11 Ultra"
      price={420}
      button="Add to Cart"
@@ -47,6 +50,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" dfpasklčdfd"
      name="Note 12S"
      price={400}
      button="Add to Cart"
@@ -56,6 +60,7 @@ function Phones() {
 
     <div >
      <PhonesData 
+      id=" apdklkčdjflkn"
      name="Redmi A2+"
      price={270}
      button="Add to Cart"
@@ -66,6 +71,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" afčdsjfčk"
      name="Redmi 9T"
      price={150}
      button="Add to cart"
@@ -76,6 +82,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" alfjdsk"
      name="Redmi 12T"
      price={327}
      button="Add to Cart"
@@ -89,6 +96,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" afkodjsfkllk"
      name="Redmi A1"
      price={159}
      button="Add to Cart"
@@ -99,6 +107,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" dfkajklf"
      name="Redmi 12C"
      price={264}
      button="Add to Cart"
@@ -109,6 +118,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" adfkčsdjaij"
      name="Redmi 10 5G"
      price={269}
      button="Add to Cart"
@@ -118,6 +128,7 @@ function Phones() {
     
     <div>
      <PhonesData 
+      id=" afkočsdfnj"
      name="Redmi Note 11"
      price={220}
      button="Add to Cart"
@@ -128,6 +139,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" aflsjoifjfiof"
      name="Redmi 10A"
      price={169}
      button="Add to Cart"
@@ -139,6 +151,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" snfkljgkljf"
      name="Redmi 10C"
      price={331}
      button="Add to Cart"
@@ -150,6 +163,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" asjflajsdga"
      name="Note 9T"
      price={250}
      button="Add to Cart"
@@ -159,6 +173,7 @@ function Phones() {
 
     <div>
      <PhonesData 
+      id=" apldflsdf"
      name="Xiomi 12S Ultra"
      price={550}
      button="Add to Cart"

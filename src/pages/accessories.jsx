@@ -24,6 +24,7 @@ function Accessories() {
 
         <div className=''>
      <PhonesData 
+      id=" ačadkfjlkd"
      name="Writing Tablet"
      price={150}
      button="Add to Cart"
@@ -33,6 +34,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+    id=" adjfjsdlfj"
      name="Car Charger"
      price={10}
      button="Add to Cart"
@@ -42,6 +44,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id="čadmnsvjk"
      name="Commuter Helmet"
      price={30}
      button="Add to Cart"
@@ -51,6 +54,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id="kačkdpč"
      name="Flashlight"
      price={17}
      button="Add to Cart"
@@ -60,6 +64,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id="ldallldsdff"
      name="Smart Plug"
      price={23}
      button="Add to Cart"
@@ -69,6 +74,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id="dakljsdljfj"
      name="Laser Measure"
      price={99}
      button="Add to Cart"
@@ -78,6 +84,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id="addlčfksčkv"
      name="G11 Filter"
      price={10}
      button="Add to Cart"
@@ -87,6 +94,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id = "klčdfmlsdl"
      name="Power Bank"
      price={30}
      button="Add to Cart"
@@ -96,6 +104,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id= "lakpčcdkčv"
      name="Cable Lock"
      price={15}
      button="Add to Cart"
@@ -105,6 +114,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id ="ldfdklnnjlns"
      name="Charging Combo"
      price={29}
      button="Add to Cart"
@@ -114,6 +124,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id = "amlkclnsdvj"
      name="Smart Clock"
      price={20}
      button="Add to Cart"
@@ -123,6 +134,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+    id="alačclčksdv"
      name="Cordless Drill"
      price={69}
      button="Add to Cart"
@@ -132,6 +144,7 @@ function Accessories() {
 
     <div className=''>
      <PhonesData 
+     id="akdlkjsdlf"
      name="Hair Clipper"
      price={60}
      button="Add to Cart"
