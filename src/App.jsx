@@ -8,10 +8,10 @@ import Phones from "./pages/phones"
 import Smart from "./pages/smart"
 import TVs from "./pages/tv-s"
 import Accessories from "./pages/accessories" ;
-import Payment from "./pages/payment";
+
 import {app} from "../firebase"
 import { getAuth, onAuthStateChanged } from "firebase/auth";
-import { PayPalScriptProvider } from "@paypal/react-paypal-js";
+
 import Profile from "./Components/profile"
 import MainLayout from "../admin/mainlayout";
 import Resetpassword from "../admin/resetpassword";
@@ -48,7 +48,7 @@ const initialOptions = {
 
 
 return (
-<PayPalScriptProvider options={initialOptions}>
+
    <div className="App">
  <Routes>
   <Route path="/"  element={ <Home/> }/>
@@ -59,7 +59,6 @@ return (
   <Route path="smart"  element={ <Smart/> }/>
   <Route path="tvs"  element={ <TVs/> }/>
   <Route path="accessories"  element={ <Accessories/> }/>
-  <Route path="payment"  element={<Payment/> }/>
   <Route path="profile"  element={<Profile/> }/>
   <Route path="resetpassword"  element={<Resetpassword/> }/>
   <Route path="forgotpassword"  element={<Forgotpasword/> }/>
@@ -71,7 +70,7 @@ return (
  </Routes>
  
    </div>
-   </PayPalScriptProvider>
+ 
    
   )
 }
