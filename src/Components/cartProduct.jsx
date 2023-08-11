@@ -20,7 +20,7 @@ const removeFromCart = () => {
       <div className=' h-52 mt-3 w-80 '>
         <h1 className='text-xl text-center mt-3 font-semibold'>{name}</h1>
         <p className='text-2xl text-center font-semibold text-orange-500'>$ {price}</p>
-        <button onClick={removeFromCart} className='bg-orange-500 mt-24 w-[60%] ml-[20%] rounded-md font-semibold'>Remove from Cart</button>
+        <button onClick={removeFromCart} className='bg-orange-500 mt-24 w-[60%] ml-[20%] rounded-md font-semibold  shadow-md shadow-orange-500 hover:scale-105 hover:shadow-lg hover:shadow-orange-500'>Remove from Cart</button>
       </div>
     </div>
   )

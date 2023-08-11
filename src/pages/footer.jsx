@@ -1,7 +1,7 @@
 function Footer () {
     return(
 <div>
-<div className=" footer flex flex-row items-center justify-evenly h-60 text-white mt-40 bg-gray-700 text-lg">
+<div className=" footer flex flex-row items-center justify-evenly h-60 text-white mt-40 bg-gray-700 text-lg ">
     <div >
         <h1 className="text-2xl mb-4"> SUPPORT</h1> 
         <ul>
@@ -23,6 +23,8 @@ function Footer () {
             <li> <a target="_blank" href="https://www.mi.com/global/miui"> MIUI </a>  </li>
          </ul>
     </div>
+
+  
     
       <div className="mt-3  h-48 ">
         <h1 className="pl-4 text-2xl  ">FOLLOW US</h1>

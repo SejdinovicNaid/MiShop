@@ -9,8 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@data-provider/react": "^2.0.0",
+    "@paypal/react-paypal-js": "^8.0.0",
     "@react-native-firebase/app": "^17.5.0",
-    "firebase": "^9.22.1",
+    "@stripe/react-stripe-js": "^2.1.0",
+    "@stripe/stripe-js": "^1.54.0",
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase": "^9.23.0",
+    "mongodb": "^5.7.0",
+    "mongose": "^0.0.2-security",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.11.2",
